@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preenasultana" alt="preenasultana" /></a> </p>
 
-- 🔭 I’m currently working on **Banking System**
+- 🔭 I’m currently working on **Creation of Portfolio**
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning.**
 
